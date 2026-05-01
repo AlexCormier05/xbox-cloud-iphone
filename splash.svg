@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1179 2556">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111611"/>
+      <stop offset="100%" stop-color="#0b0f0b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="32%" r="40%">
+      <stop offset="0%" stop-color="#7bf17b" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7bf17b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1179" height="2556" fill="url(#bg)"/>
+  <rect width="1179" height="2556" fill="url(#glow)"/>
+  <g transform="translate(589.5 880)">
+    <circle r="170" fill="#7bf17b" opacity="0.12"/>
+    <path d="M-128 -96c53 31 87 75 108 136 21-61 55-105 108-136" fill="none" stroke="#f3fff3" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-128 136c46-58 84-92 128-114 44 22 82 56 128 114" fill="none" stroke="#f3fff3" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="589.5" y="1260" text-anchor="middle" fill="#f3fff3" font-size="72" font-family="Arial, sans-serif" font-weight="700">Xbox Cloud</text>
+  <text x="589.5" y="1350" text-anchor="middle" fill="#9cad9c" font-size="38" font-family="Arial, sans-serif">Launcher iPhone</text>
+</svg>
